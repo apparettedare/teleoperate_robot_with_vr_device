@@ -1,1 +1,1 @@
-# teleoperate_robot_with_vr_device
+# VRデバイスを用いたロボットの遠隔操作システム
